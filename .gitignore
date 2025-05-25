@@ -4,4 +4,6 @@
 .idea/  # PyCharm project folder
 .vscode/
 .ipynb_checkpoints/
-
+**/__pycache__/
+!.gitignore
+!.gitattributes
