@@ -22,7 +22,7 @@ filter_page = st.Page(
 
 query_page = st.Page(
     page="pages/faq.py",
-    title="FAQs",
+    title="Queries",
     icon="❔"
 )
 

@@ -26,7 +26,7 @@ st.markdown(
         text-align: center;
     }
     </style>
-    <div class="custom-title">Frequently Asked Questions</div>
+    <div class="custom-title">Explore Queries</div>
     """,
     unsafe_allow_html=True
 )
