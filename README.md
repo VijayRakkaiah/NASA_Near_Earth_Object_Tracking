@@ -56,5 +56,5 @@ An interactive web application built with **Streamlit** to **track, filter, and 
 ![Filter Page](assets/filter.JPG)
 
 ### 📊 FAQs and Queries
-![FAQ Page](assets/faq.JPG)
+![FAQ Page](assets/queries.JPG)
 
